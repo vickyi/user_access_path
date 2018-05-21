@@ -1,0 +1,10 @@
+.idea/libraries
+*workspace.xml
+pathlist/target/
+pathlist.iml
+path_list.iml
+.idea
+/target
+/hdfs-files-merge/dependency-reduced-pom.xml
+/pathlist/dependency-reduced-pom.xml
+pathlist/pathlist.iml
